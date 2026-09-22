@@ -91,7 +91,7 @@ ls object/logistics
 The library is about 1.9 GB uncompressed. To fetch only one collection, use a sparse checkout:
 
 ```bash
-git clone --filter=blob:none --sparse https://github.com/<owner>/koboyo-svg.git
+git clone --filter=blob:none --sparse https://github.com/shipwithclaude/koboyo-svg.git
 cd koboyo-svg
 git sparse-checkout set mark face
 ```
