@@ -98,4 +98,6 @@ git sparse-checkout set mark face
 
 ## License
 
-No license has been declared for this repository yet. Contact the repository owner before redistributing the assets.
+Copyright (c) 2026 Koboyo. All rights reserved.
+
+All illustrations and icons in this repository are the property of Koboyo. They may not be copied, modified, redistributed, or used in any product or service without prior written permission from Koboyo. See [LICENSE](LICENSE) for details.
